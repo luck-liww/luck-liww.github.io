@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Mac Jenkins使用</title>
+    <url>/2020/01/18/Jenkins%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>jenkins</tag>
+        <tag>python</tag>
+        <tag>持续集成</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Mac Jenkins安装</title>
     <url>/2020/01/18/Mac-Jenkins%E5%AE%89%E8%A3%85/</url>
     <content><![CDATA[<h1 id="Jenkins安装篇"><a href="#Jenkins安装篇" class="headerlink" title="Jenkins安装篇"></a>Jenkins安装篇</h1><p>内容为空</p>
@@ -10,8 +23,8 @@
       </categories>
       <tags>
         <tag>jenkins</tag>
-        <tag>mac</tag>
         <tag>持续集成</tag>
+        <tag>mac</tag>
       </tags>
   </entry>
   <entry>
