@@ -3,15 +3,15 @@
   <entry>
     <title>Mac Jenkins使用</title>
     <url>/2020/01/18/Jenkins%E4%BD%BF%E7%94%A8/</url>
-    <content><![CDATA[<p>内容为空</p>
+    <content><![CDATA[<p>#Jenkins使用篇<br>内容为空</p>
 ]]></content>
       <categories>
         <category>测试</category>
       </categories>
       <tags>
         <tag>jenkins</tag>
-        <tag>python</tag>
         <tag>持续集成</tag>
+        <tag>python</tag>
       </tags>
   </entry>
   <entry>
@@ -24,8 +24,8 @@
       </categories>
       <tags>
         <tag>jenkins</tag>
-        <tag>持续集成</tag>
         <tag>mac</tag>
+        <tag>持续集成</tag>
       </tags>
   </entry>
   <entry>
